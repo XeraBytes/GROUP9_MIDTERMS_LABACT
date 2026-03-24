@@ -10,7 +10,7 @@ A RESTful API that manages patients, doctors, and appointments for a hospital. B
 
 ---
 
-## Project Structure
+## Activity Structure
 
 ```
 hospital_system/
@@ -57,7 +57,7 @@ private string $host     = 'localhost';
 private string $port     = '5432';
 private string $dbname   = 'hospital_db';
 private string $user     = 'postgres';
-private string $password = 'admin123'; // <-- change this
+private string $password = 'admin123'; 
 ```
 
 ### 4. Run the Server
@@ -191,14 +191,14 @@ Base URL: `http://localhost:8000/api`
 
 | Member | Role |
 |--------|------|
-| Member 1 | Database Designer |
-| Member 2 | Model Developer (PHP OOP) |
-| Member 3 | CRUD API Developer |
-| Member 4 | Relationship API Developer |
-| Member 5 | Data Analytics API Developer |
-| Member 6 | Documentation and Testing |
+| Burgos | Database Designer |
+| Bacoro | Model Developer (PHP OOP) |
+| Camat | CRUD API Developer |
+| Andres | Relationship API Developer |
+| Laborte | Data Analytics API Developer |
+| Camat | Documentation and Testing |
 
-> Names and commit history per member are reflected in the repository.
+> Names and commit history per member are reflected in the repository(They dont have githubz) .
 
 ---
 
