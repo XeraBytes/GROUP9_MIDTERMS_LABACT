@@ -206,4 +206,5 @@ Base URL: `http://localhost:8000/api`
 
 Repository name: `9_midterm_output`
 
-Submitted via remote repository as required by the instructor.
+Submitted via remote repository as required by Sir Jason Erasga
+.
